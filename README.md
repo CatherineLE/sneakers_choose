@@ -25,3 +25,5 @@ Make sure that you have :
 		- 4. prediction_resource_id in Azure portal in Prediction ressource - Properties
     
   And then  past the right keys in the app.py before running flask 
+
+
